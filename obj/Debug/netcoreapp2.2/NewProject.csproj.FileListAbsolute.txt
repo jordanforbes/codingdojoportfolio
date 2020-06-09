@@ -1,0 +1,14 @@
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\bin\Debug\netcoreapp2.2\NewProject.deps.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\bin\Debug\netcoreapp2.2\NewProject.runtimeconfig.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\bin\Debug\netcoreapp2.2\NewProject.runtimeconfig.dev.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\bin\Debug\netcoreapp2.2\NewProject.dll
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\bin\Debug\netcoreapp2.2\NewProject.pdb
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.csprojAssemblyReference.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.RazorAssemblyInfo.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.RazorAssemblyInfo.cs
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.AssemblyInfoInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.AssemblyInfo.cs
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.RazorTargetAssemblyInfo.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.dll
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\newproject\obj\Debug\netcoreapp2.2\NewProject.pdb
